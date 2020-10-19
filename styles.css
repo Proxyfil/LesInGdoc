@@ -82,3 +82,7 @@ li a:hover {
 .gdoc:hover {
     opacity: 100%;
 }
+
+.contactitem {
+    text-align: center;
+}
