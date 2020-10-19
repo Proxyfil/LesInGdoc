@@ -1,0 +1,84 @@
+body {
+    background-color: #161616;
+}
+
+.nav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    width: 100%;
+    background-color: #252525;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+  
+li a {
+    display: block;
+    color: rgb(255, 255, 255);
+    padding: 8px 16px;
+    text-decoration: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+li {
+    float: left;
+  }
+  
+  a {
+    display: block;
+    padding: 8px;
+  }
+  
+  /* Change the link color on hover */
+li a:hover {
+    color:  #4BBA31;
+}
+.active {
+    color: #4BBA31;
+}
+
+.txtbutton {
+    top: "50px";
+    text-align: center;
+    font-size: 20px;
+}
+
+.header {
+    float: left;
+}
+
+.navbar {
+    margin-top: 30px;
+}
+
+.staffitem {
+    text-align: center;
+    padding: 30px;
+}
+
+.pseudo {
+    color: rgb(255, 255, 255);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.discord {
+    color: #4779b3;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.twitter {
+    color: #289acf;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.gdoc {
+    padding-left: 90px;
+    display: inline-block;
+    opacity: 80%;
+}
+
+.gdoc:hover {
+    opacity: 100%;
+}
