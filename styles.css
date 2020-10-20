@@ -56,6 +56,9 @@ li a:hover {
 .staffitem {
     text-align: center;
     padding: 30px;
+    background-color: #252525;
+    margin: 10px;
+    width: 300px;
 }
 
 .pseudo {
@@ -73,6 +76,11 @@ li a:hover {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
+.role {
+    color: #4BBA31;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
 .gdoc {
     padding-left: 90px;
     display: inline-block;
@@ -85,4 +93,9 @@ li a:hover {
 
 .contactitem {
     text-align: center;
+}
+
+.staff {
+    display: flex;
+    justify-content: center;
 }
