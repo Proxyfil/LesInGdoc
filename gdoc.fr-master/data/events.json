@@ -1,0 +1,78 @@
+[
+    {
+        "year": "2020",
+        "events": [
+            {
+                "name": "WoW Shadowlands",
+                "slug": "wow_shadowlands",
+                "date": "2020",
+                "status": "ongoind",
+                "link" : "https://wow.gdoc.fr"
+            },
+            {
+                "name": "ZEvent",
+                "slug": "zevent",
+                "date": "2020-10-16",
+                "status": "ongoing",
+                "link": "https://zevent.gdoc.fr"
+            },
+            {
+                "name": "Marathonfinement",
+                "slug": "marathonfinement",
+                "date": "2020-04-22",
+                "status": "finished",
+                "link": "https://marathonfinement.gdoc.fr"
+            }
+        ]
+    },
+    {
+        "year": "2019",
+        "events": [
+            {
+                "name": "ZEvent",
+                "slug": "zevent",
+                "date": "2019-09-20",
+                "status": "finished",
+                "link_gdoc": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQBMDrDByx6FQuthOyC7yqvwHc_joxDIe1g8k5-hVh6jsvkMmjkgGsl2ao490oVhJ1b2mwsTgqLahZi/pubhtml"
+            },
+            {
+                "name": "WoW Classic",
+                "slug": "wow_classic",
+                "date": "2019",
+                "status": "finished",
+                "link_gdoc": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ2tvz4urSIwyEbg2_qkO97FsQvJJquYn56KMJqEOFEoPvhODcCYFYZbLanrEJLv2S9PiTZ8YgUsNB4/pubhtml"
+            },
+            {
+                "name": "TMCup Duo",
+                "slug": "tmcup",
+                "date": "2019-06-29",
+                "status": "finished",
+                "link_gdoc": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTIDNUCE7Y6mT3j0CAcVQn6oKd9iWaSnJhQEX3lqDJUYKe8_Zad636SfY69ddJzGM0-Agis9osPyB4z/pubhtml"
+            }
+        ]
+    },
+    {
+        "year": "2018",
+        "events": [
+        {
+                "name": "WoW BFA",
+                "slug": "wow_bfa",
+                "date": "2018",
+                "status": "finished",
+                "link_gdoc": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRIfG719M03FTgFcFN2theXzSC4BOXmuRCqsuYGdG28dpfS5X-8YdhjnoeIsnJ7zgmfGzxZnzibNuMv/pubhtml"
+            }
+        ]
+    },
+    {
+        "year": "2016",
+        "events": [
+            {
+                "name": "WoW Legion",
+                "slug": "wow_legion",
+                "date": "2016",
+                "status": "finished",
+                "link_gdoc": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRkFdDEsoekpGD6YEVVut8yJx427EYJkvU5oFCWo4FdTZiR2TRvA2CA9eGFWV1pW-DZsPJiYUU--gLp/pubhtml"
+            }
+        ]
+    }
+]
