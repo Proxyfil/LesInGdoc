@@ -1,0 +1,53 @@
+body {
+    background-color: #161616;
+}
+
+.Hbutton {
+    border-bottom: 2px solid #161616;
+    float: left; 
+    margin: 15px; 
+    color: #4BBA31;
+    padding-bottom: 25px;
+}
+
+.Hbutton:hover {
+    border-bottom: 2px solid #4BBA31;
+}
+
+li {
+    color: #4BBA31;
+}
+
+h1 {
+    color: #4BBA31;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h2 {
+    color: #4BBA31;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+p {
+    color: #ffffff;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.btnAction {
+    background-color: #161616;
+    border: #161616 solid 10px;
+}
+
+.btnAction:hover {
+    background-color: #202020;
+    border: #202020 solid 10px;
+}
+
+.card:hover {
+    background-color: #181818;
+    border-radius: 50px;
+}
+
+.gdoc:hover {
+    opacity: 0.8;
+}
